@@ -1,0 +1,130 @@
+#body {
+}
+
+body{
+background-color: #000104;
+margin: 0;
+padding;0;
+}
+a{
+color: #CCCCCC;
+text-decoration: none;
+}
+a:hover{
+color: #66FF33;
+text-decoration: none;
+}
+#menu {
+	background-image: url(images/index_08.jpg);
+	height: 684px;
+	width: 184px;
+}
+.menu {
+	background-image: url(images/index_08.jpg);
+	height: 684px;
+	width: 184px;
+}
+.menu ul {
+	margin: 0;
+	list-style: none;
+	padding-left: 0px;
+	padding-top: 0px;
+}
+
+.menu li {
+	display: inline;
+}
+.menu a {
+	height: 39px;
+	width: 184px;
+	font-family: "century Gothic";
+	font-size: 17px;
+	font-weight:normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	float: left;
+	text-align: center;
+	background-repeat: no-repeat;
+	padding-right: 0px;
+	line-height: 2;
+}
+#logo {
+	background-image: url(images/index_06.jpg);
+	height: 55px;
+	width: 184px;
+}
+.logo{
+	font-family: "century Gothic";
+	font-size: 30px;
+	text-align: center;
+	padding-top: 8px;
+	color: ffffff;
+}
+#content_1 {
+	background-image: url(images/index_03.jpg);
+	height: 388px;
+	width: 557px;
+	font-family: "century Gothic";
+	color: #FFFFFF;
+	font-size: 12px;
+}
+.content{
+	font-family: "century Gothic";
+	color: #FFFFFF;
+	font-size: 12px;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+.title{
+	font-family: "century Gothic";
+	color: #FFFFFF;
+	font-size: 22px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+#content_2 {
+	background-image: url(images/index_10.jpg);
+	height: 388px;
+	width: 557px;
+}
+#footer {
+	background-image: url(images/index_14.jpg);
+	height: 20px;
+	width: 437px;
+}
+
+.logo a{
+	text-decoration: none;
+	color: ffffff;
+}
+#top {
+	background-image: url(images/index_01.jpg);
+	height: 106px;
+	width: 800px;
+}
+
+.menu a:hover {
+	width: 184px;
+	height: 39px;
+	color: #FFFFFF;
+	background: url(images/button_hover.png);
+	background-repeat: no-repeat;
+	padding-right: 0px;
+}
+.footer {
+	font-size: 10px;
+	color: #FFFFFF;
+	font-family: "century Gothic";
+}
+.style1 {
+	font-size: 8px;
+	color: #000107;
+}
+.style1 a{
+	text-decoration: none;
+	color: #000107;
+}
+.style1 a:hover{
+	text-decoration: none;
+	color: #000107;
+}
