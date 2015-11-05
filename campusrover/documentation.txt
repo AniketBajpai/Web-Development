@@ -1,0 +1,25 @@
+	Database- crdb
+ Tables:-
+ 
+// campus1  - contains information regarding name and type of different places
+ places   - contains information specific to individual places
+ persons  - not required as login through iitd kerberos
+ route - contains GPS information of walking and cycling routes
+
+
+
+ Folder			    role
+  
+  crdb		     Operations on crdb
+  addnew         Add new place to database
+  mainpage       index page of site        
+  signup -
+  login
+  logout
+  search - fetch list of places from places table
+  addnew - add new place
+  addroute - add new route
+  displayroute - dispalys jogging or cycling route as selected by user 
+  routeetodb - saving route to database 
+  to_test_table - saving file to db   			
+
